@@ -1,0 +1,29 @@
+{
+  "globalStyle": {},
+  "pages": [
+    {
+      "path": "pages/HomePage/HomePage",
+      "style": {}
+    },
+    {
+      "path": "pages/ShowCase/ShowCase",
+      "style": {}
+    },
+    {
+      "path": "pages/AiVideoFaceSwap/AiVideoFaceSwap",
+      "style": {}
+    },
+    {
+      "path": "pages/VipCenter/VipCenter",
+      "style": {}
+    },
+    {
+      "path": "pages/AigcRecord/AigcRecord",
+      "style": {}
+    },
+    {
+      "path": "pages/Login/Login",
+      "style": {}
+    }
+  ]
+}
